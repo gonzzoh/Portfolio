@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.45c0962c.chunk.css",
+    "main.js": "/Portfolio/static/js/main.df214a22.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.df214a22.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.8d5cc8bf.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.8d5cc8bf.js.map",
+    "static/js/2.27505fc1.chunk.js": "/Portfolio/static/js/2.27505fc1.chunk.js",
+    "static/js/2.27505fc1.chunk.js.map": "/Portfolio/static/js/2.27505fc1.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.fb89bb424eec5228beb0561a2e626c49.js": "/Portfolio/precache-manifest.fb89bb424eec5228beb0561a2e626c49.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.45c0962c.chunk.css.map": "/Portfolio/static/css/main.45c0962c.chunk.css.map",
+    "static/js/2.27505fc1.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.27505fc1.chunk.js.LICENSE.txt",
+    "static/media/MortigotchiHP.png": "/Portfolio/static/media/MortigotchiHP.e58b95c7.png",
+    "static/media/MovioHP.png": "/Portfolio/static/media/MovioHP.2e94f2f4.png",
+    "static/media/NestHP.png": "/Portfolio/static/media/NestHP.237adccd.png",
+    "static/media/TikchadtoeHP.png": "/Portfolio/static/media/TikchadtoeHP.5ce11386.png",
+    "static/media/WayfarerHP.png": "/Portfolio/static/media/WayfarerHP.c81b642c.png",
+    "static/media/style.scss": "/Portfolio/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-02.svg": "/Portfolio/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.49f07142.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d5cc8bf.js",
+    "static/js/2.27505fc1.chunk.js",
+    "static/css/main.45c0962c.chunk.css",
+    "static/js/main.df214a22.chunk.js"
+  ]
+}
