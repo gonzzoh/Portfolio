@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Router } from "react-router-dom";
+import { Router, BrowserRouter } from "react-router-dom";
 import { createBrowserHistory } from "history";
 
 import App from './App';
@@ -9,12 +9,13 @@ import * as serviceWorker from './serviceWorker';
 //import './App.css';
 import './assets/scss/style.scss';
 
-const history = createBrowserHistory();
+// const history = "./Portfolio";
+
 
 ReactDOM.render(
-  <Router history={history}>
+  <BrowserRouter path={process.env.PUBLIC_URL + '/'}>
     <App />
-  </Router>,
+  </BrowserRouter>,
   document.getElementById('root')
 );
 

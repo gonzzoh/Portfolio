@@ -88,7 +88,7 @@ const Hero = ({
                   <Button tag="a" color="dark" wideMobile href="https://www.linkedin.com/in/gonzalo-meza-cabrera/">
                     LinkedIn
                     </Button>
-                  <Button tag="a" color="primary" wideMobile href="https://drive.google.com/file/d/1Dr_AztkJs4BndDF1-kMVW7RmWEK3pIyo/view?usp=sharing">
+                  <Button tag="a" color="primary" wideMobile href="https://docs.google.com/document/d/127-F-sbMXZnhwaVQL20VRwypXbQh5tEcdGAVv6QaQQg/edit?usp=sharing">
                     My Resume
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://github.com/gonzzoh">
